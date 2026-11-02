@@ -2,6 +2,8 @@
 
 Hiroyasu Usami · Ayato Tsuboi · Keisuke Hara
 
+[Read the manuscript (PDF)](manuscript.pdf) · [LaTeX source](manuscript_source.zip) · [Code and results](code-and-results.zip)
+
 Code, reference results, figures and animation for the paper. The analysis gives sharp coaxial-to-off-axis coefficient thresholds for unique scalar depth calibration and bounds depth error above the threshold.
 
 For isotropic illumination and a 45° normal cone:
