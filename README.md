@@ -65,6 +65,10 @@ The study contains 108 noiseless pairs and 864 noisy pairs. The decoder receives
 
 All observed errors satisfy their individual bounds. See `docs/TWO_OBSERVATION_CALIBRATION.pdf` in the archive for the derivation, error certificate and exact collision.
 
+## Related work
+
+[McGunnigle et al. (2011)](https://doi.org/10.1117/1.3575651) combine [coaxially augmented photometric stereo](https://doi.org/10.1049/iet-cvi.2009.0038) with laser height profiles to recover discontinuous surfaces. The present analysis studies the scalar depth response, sharp illumination coefficient thresholds, and inverse sensitivity.
+
 ## Reproduce
 
 Use Python 3 and its standard library. From a fresh repository checkout, unpack the source archive and run:
